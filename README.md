@@ -69,3 +69,8 @@ A comprehensive guide to clustering algorithms: https://towardsdatascience.com/t
 ### 🏆 Conclusion
 
 This project provides an overview of how to use multiple clustering algorithms on a given dataset to find the optimal cluster algorithm. By performing feature engineering, normalization, and evaluating the clustering algorithms using appropriate metrics, this project provides insights into the process of choosing the best clustering algorithm. The project can be extended to use other clustering algorithms or datasets.
+
+### 🧾 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
